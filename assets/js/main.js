@@ -44,7 +44,7 @@
 							'images/3.jpg': 'top',
 							'images/4.jpg': 'center',
 							'images/5.jpg': 'center',
-							'images/6.jpg': 'center',							
+							'images/6.jpg': 'top'							
 						},
 
 					// Delay.
