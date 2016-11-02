@@ -39,6 +39,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
+							'images/1.png': 'top',
 							'images/1.jpg': 'top',
 							'images/2.jpg': 'top',
 							'images/3.jpg': 'top',
@@ -48,7 +49,7 @@
 						},
 
 					// Delay.
-						delay: 6000
+						delay: 8000
 
 				};
 
